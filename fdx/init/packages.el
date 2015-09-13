@@ -61,16 +61,4 @@
 
 (fdx/package-install-and-remove-to-match-list
  'magit
- 'color-theme
- 'color-theme-ir-black
- ;; 'color-theme-sanityinc-tomorrow
- ;; 'yasnippet
- ;; 'smartparens
- ;; 'multiple-cursors
- ;; 'dired+
- ;; 'projectile
- ;; 'centered-cursor-mode
- ;; 'fullscreen-mode
- ;; 'ace-jump
- ;; 'ace-window
  )
